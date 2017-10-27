@@ -16,7 +16,7 @@ categories = [
 
 videos = [
   {
-    url: "https://www.youtube.com/watch?v=ZBUiXjz4vSE",
+    url: "https://www.youtube.com/embed/ZBUiXjz4vSE",
     title: "Kafası Güzel Gencin Ahsen TV'yle Röportajı",
     thumbnail: "https://i.ytimg.com/vi/EbxIXpZOi7s/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAKWyQi9yTZU1Lp4U6oNKy8NP3FNw",
     year: 2015,
@@ -24,7 +24,7 @@ videos = [
     summary: "Kafası Güzel Gencin Ahsen TV'yle Röportajı İBRETLİK"
   },
   {
-    url: "https://www.youtube.com/watch?v=nBRYcvzxqs8",
+    url: "https://www.youtube.com/embed/nBRYcvzxqs8",
     title: "Başakşehir'de Kavgaya Yol Açan Sosyal Deney",
     thumbnail: "https://i.ytimg.com/vi/EbxIXpZOi7s/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAKWyQi9yTZU1Lp4U6oNKy8NP3FNw",
     year: 2016,
